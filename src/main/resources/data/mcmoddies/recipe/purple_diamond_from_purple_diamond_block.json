@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "mcmoddies:purple_diamond_block"
+    }
+  ],
+  "result": {
+    "id": "mcmoddies:purple_diamond",
+    "count": 9
+  }
+}

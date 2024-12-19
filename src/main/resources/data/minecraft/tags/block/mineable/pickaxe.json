@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "mcmoddies:ruby_block",
+    "mcmoddies:raw_ruby_block",
+
+    "mcmoddies:rainbow_diamond_block",
+    "mcmoddies:purple_diamond_block",
+    "mcmoddies:orange_diamond_block",
+    "mcmoddies:red_diamond_block",
+    "mcmoddies:yellow_diamond_block",
+    "mcmoddies:green_diamond_block",
+
+    "mcmoddies:raw_stone_rainbow_diamond_block",
+    "mcmoddies:raw_stone_purple_diamond_block",
+    "mcmoddies:raw_stone_orange_diamond_block",
+    "mcmoddies:raw_stone_red_diamond_block",
+    "mcmoddies:raw_stone_yellow_diamond_block",
+    "mcmoddies:raw_stone_green_diamond_block",
+
+    "mcmoddies:raw_deepslate_rainbow_diamond_block",
+    "mcmoddies:raw_deepslate_purple_diamond_block",
+    "mcmoddies:raw_deepslate_orange_diamond_block",
+    "mcmoddies:raw_deepslate_red_diamond_block",
+    "mcmoddies:raw_deepslate_yellow_diamond_block",
+    "mcmoddies:raw_deepslate_green_diamond_block"
+  ]
+}

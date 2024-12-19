@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "mcmoddies:orange_diamond_block"
+    }
+  ],
+  "result": {
+    "id": "mcmoddies:orange_diamond",
+    "count": 9
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+
+    "mcmoddies:raw_stone_purple_diamond_block",
+    "mcmoddies:raw_stone_orange_diamond_block",
+    "mcmoddies:raw_stone_red_diamond_block",
+    "mcmoddies:raw_stone_yellow_diamond_block",
+    "mcmoddies:raw_stone_green_diamond_block",
+
+    "mcmoddies:raw_deepslate_purple_diamond_block",
+    "mcmoddies:raw_deepslate_orange_diamond_block",
+    "mcmoddies:raw_deepslate_red_diamond_block",
+    "mcmoddies:raw_deepslate_yellow_diamond_block",
+    "mcmoddies:raw_deepslate_green_diamond_block"
+  ]
+}

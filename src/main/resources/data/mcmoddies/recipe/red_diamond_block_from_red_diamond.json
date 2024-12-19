@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mcmoddies:red_diamond"
+    }
+  },
+  "result": {
+    "id": "mcmoddies:red_diamond_block"
+  }
+}

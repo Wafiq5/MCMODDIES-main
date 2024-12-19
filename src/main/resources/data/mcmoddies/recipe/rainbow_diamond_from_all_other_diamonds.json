@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mcmoddies:purple_diamond"
+    },
+    {
+      "item": "mcmoddies:orange_diamond"
+    },
+    {
+      "item": "mcmoddies:red_diamond"
+    },
+    {
+      "item": "mcmoddies:yellow_diamond"
+    },
+    {
+      "item": "minecraft:netherite_ingot"
+    },
+    {
+      "item": "mcmoddies:green_diamond"
+    },
+    {
+      "item": "mcmoddies:ruby"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:lapis_lazuli"
+    }
+  ],
+  "result": {
+    "id": "mcmoddies:rainbow_diamond",
+    "count": 1
+  }
+}

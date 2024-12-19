@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "DDD",
+        " S ",
+        " S "
+    ],
+    "key": {
+        "D": {
+            "item": "mcmoddies:purple_diamond"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "id": "mcmoddies:purple_diamond_pickaxe"
+    }
+}

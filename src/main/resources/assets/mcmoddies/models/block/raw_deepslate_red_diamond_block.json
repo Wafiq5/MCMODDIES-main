@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mcmoddies:block/raw_deepslate_red_diamond_block"
+  }
+}

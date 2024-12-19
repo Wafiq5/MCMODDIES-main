@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "mcmoddies:item/yellow_diamond_hoe"
+  }
+}

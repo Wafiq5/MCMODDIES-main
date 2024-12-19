@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        " D ",
+        " D ",
+        " S "
+    ],
+    "key": {
+        "D": {
+            "item": "mcmoddies:rainbow_diamond"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "id": "mcmoddies:rainbow_diamond_sword"
+    }
+}

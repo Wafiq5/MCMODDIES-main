@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "mcmoddies:red_diamond_block"
+    }
+  ],
+  "result": {
+    "id": "mcmoddies:red_diamond",
+    "count": 9
+  }
+}

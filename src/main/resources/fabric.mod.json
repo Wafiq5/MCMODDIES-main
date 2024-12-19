@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "mcmoddies",
+	"version": "${version}",
+	"name": "MCMODDIES",
+	"description": "My First Moddie!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/mcmoddies/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.mcmoddies.MCMODDIES"
+		],
+		"client": [
+			"com.mcmoddies.MCMODDIESClient"
+		],
+		"fabric-datagen": [
+			"com.mcmoddies.MCMODDIESDataGenerator"
+		]
+	},
+	"mixins": [
+		"mcmoddies.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

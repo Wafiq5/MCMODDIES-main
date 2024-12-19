@@ -1,0 +1,80 @@
+{
+  "item.mcmoddies.ruby": "Ruby",
+  "item.mcmoddies.raw_ruby": "Raw Ruby",
+
+
+  "item.mcmoddies.rainbow_diamond": "Rainbow Diamond",
+  "item.mcmoddies.purple_diamond": "Purple Diamond",
+  "item.mcmoddies.orange_diamond": "Orange Diamond",
+  "item.mcmoddies.red_diamond": "Red Diamond",
+  "item.mcmoddies.yellow_diamond": "Yellow Diamond",
+  "item.mcmoddies.green_diamond": "Green Diamond",
+
+
+  "block.mcmoddies.ruby_block": "Ruby Block",
+  "block.mcmoddies.raw_ruby_block": "Raw Ruby Block",
+  "block.mcmoddies.rainbow_diamond_block": "Rainbow Diamond Block",
+  "block.mcmoddies.purple_diamond_block": "Purple Diamond Block",
+  "block.mcmoddies.orange_diamond_block": "Orange Diamond Block",
+  "block.mcmoddies.red_diamond_block": "Red Diamond Block",
+  "block.mcmoddies.yellow_diamond_block": "Yellow Diamond Block",
+  "block.mcmoddies.green_diamond_block": "Green Diamond Block",
+
+
+  "block.mcmoddies.raw_stone_rainbow_diamond_block": "Rainbow Diamond Ore",
+  "block.mcmoddies.raw_stone_purple_diamond_block": "Purple Diamond Ore",
+  "block.mcmoddies.raw_stone_orange_diamond_block": "Orange Diamond Ore",
+  "block.mcmoddies.raw_stone_red_diamond_block": "Red Diamond Ore",
+  "block.mcmoddies.raw_stone_yellow_diamond_block": "Yellow Diamond Ore",
+  "block.mcmoddies.raw_stone_green_diamond_block": "Green Diamond Ore",
+
+  "block.mcmoddies.raw_deepslate_rainbow_diamond_block": "Deepslate Rainbow Diamond Ore",
+  "block.mcmoddies.raw_deepslate_purple_diamond_block": "Deepslate Purple Diamond Ore",
+  "block.mcmoddies.raw_deepslate_orange_diamond_block": "Deepslate Orange Diamond Ore",
+  "block.mcmoddies.raw_deepslate_red_diamond_block": "Deepslate Red Diamond Ore",
+  "block.mcmoddies.raw_deepslate_yellow_diamond_block": "Deepslate Yellow Diamond Ore",
+  "block.mcmoddies.raw_deepslate_green_diamond_block": "Deepslate Green Diamond Ore",
+
+  "item.mcmoddies.rainbow_diamond_sword": "Rainbow Diamond Sword",
+  "item.mcmoddies.rainbow_diamond_pickaxe": "Rainbow Diamond Pickaxe",
+  "item.mcmoddies.rainbow_diamond_axe": "Rainbow Diamond Axe",
+  "item.mcmoddies.rainbow_diamond_shovel": "Rainbow Diamond Shovel",
+  "item.mcmoddies.rainbow_diamond_hoe": "Rainbow Diamond Hoe",
+
+  "item.mcmoddies.purple_diamond_sword": "Purple Diamond Sword",
+  "item.mcmoddies.purple_diamond_pickaxe": "Purple Diamond Pickaxe",
+  "item.mcmoddies.purple_diamond_axe": "Purple Diamond Axe",
+  "item.mcmoddies.purple_diamond_shovel": "Purple Diamond Shovel",
+  "item.mcmoddies.purple_diamond_hoe": "Purple Diamond Hoe",
+
+  "item.mcmoddies.orange_diamond_sword": "Orange Diamond Sword",
+  "item.mcmoddies.orange_diamond_pickaxe": "Orange Diamond Pickaxe",
+  "item.mcmoddies.orange_diamond_axe": "Orange Diamond Axe",
+  "item.mcmoddies.orange_diamond_shovel": "Orange Diamond Shovel",
+  "item.mcmoddies.orange_diamond_hoe": "Orange Diamond Hoe",
+
+  "item.mcmoddies.red_diamond_sword": "Red Diamond Sword",
+  "item.mcmoddies.red_diamond_pickaxe": "Red Diamond Pickaxe",
+  "item.mcmoddies.red_diamond_axe": "Red Diamond Axe",
+  "item.mcmoddies.red_diamond_shovel": "Red Diamond Shovel",
+  "item.mcmoddies.red_diamond_hoe": "Red Diamond Hoe",
+
+  "item.mcmoddies.yellow_diamond_sword": "Yellow Diamond Sword",
+  "item.mcmoddies.yellow_diamond_pickaxe": "Yellow Diamond Pickaxe",
+  "item.mcmoddies.yellow_diamond_axe": "Yellow Diamond Axe",
+  "item.mcmoddies.yellow_diamond_shovel": "Yellow Diamond Shovel",
+  "item.mcmoddies.yellow_diamond_hoe": "Yellow Diamond Hoe",
+
+  "item.mcmoddies.green_diamond_sword": "Green Diamond Sword",
+  "item.mcmoddies.green_diamond_pickaxe": "Green Diamond Pickaxe",
+  "item.mcmoddies.green_diamond_axe": "Green Diamond Axe",
+  "item.mcmoddies.green_diamond_shovel": "Green Diamond Shovel",
+  "item.mcmoddies.green_diamond_hoe": "Green Diamond Hoe",
+
+  "item.mcmoddies.metal_detector": "Metal Detector",
+  "item.mcmoddies.diamond_detector": "Diamond Detector",
+
+
+  "itemgroup.ruby": "Rubies",
+  "itemgroup.rainbow_diamond": "Rainbow Diamonds"
+}

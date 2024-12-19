@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mcmoddies:yellow_diamond"
+    }
+  },
+  "result": {
+    "id": "mcmoddies:yellow_diamond_block"
+  }
+}
